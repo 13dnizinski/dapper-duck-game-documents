@@ -1,0 +1,3 @@
+Your data will not be sold. 
+
+In order to support the leaderboard and Ad functionality, we communicate using Google's APIs and they will be able to see your data, which you provide when you log in.
