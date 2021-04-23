@@ -2,4 +2,4 @@ Your data will not be sold or disclosed to any party except the internal develop
 
 In order to support the leaderboard, review, and ad functionality, this app communicates using Google's APIs and they will be able to see your data, which you provide when you log into Google Play.
 
-If you have any questions or concerns regarding the content or data usage of this application, please contact the developer (me), Dan Nizinski at danielnizinski@gmail.com. I appreciate any and all feedback necessary to making this a safe and wholesome app for people of all ages.
+If you have any questions or concerns regarding the content or data usage of this application, please contact the developer (me), Dan Nizinski at danielnizinski@gmail.com. I appreciate any and all feedback necessary to making this a safe and wholesome app for people of all ages. Let me know if you encounter any offensive ads and I will personally investigate your claim and get back to you.
